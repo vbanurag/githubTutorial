@@ -1,3 +1,10 @@
 this is new changes
+<<<<<<< HEAD
 new chages in branch master
-this idsxx extendedx 
+ 
+=======
+this is changes in new branch
+
+
+
+>>>>>>> newbranch
