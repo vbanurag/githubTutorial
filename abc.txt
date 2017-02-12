@@ -1,7 +1,1 @@
-<<<<<<< HEAD
- 
-Second edit in this file 
-hi this is first file for git
-=======
- hi this is my first file 
->>>>>>> 25ac5001b4421edcd3b49b38dcf2e9cafe25da85
+this is new changes
